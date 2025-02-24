@@ -5,7 +5,7 @@ int main(){
     int a = 5;
     int b = 10;
 
-    //check odd
+    //check odd or even
     //Method 1
     cout<<((a%2==0)?"Even\n":"Odd\n");
     //Method 2
